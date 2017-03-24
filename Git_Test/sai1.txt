@@ -1,2 +1,0 @@
-This is the text file written by sai 
-hence it is termed as sai.txt

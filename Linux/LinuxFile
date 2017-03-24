@@ -9,3 +9,7 @@ apt-get install cache-ng= Requires on the both client and server
 
 Prefered to use teh squid to the suid as it is scalable server to provide the 
 Dependencies
+
+Shotwell <Service Name>
+
+Testdisk :File Recovery tool
