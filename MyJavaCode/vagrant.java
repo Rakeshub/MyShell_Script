@@ -1,10 +1,12 @@
 //package ui.com.phenom001;
 
+//Before you run this program you need to have vagrant binaries and Virtual_Box
+
 import java.util.UUID;
 //import java.util.*;
 import java.lang.ProcessBuilder;
 import java.io.File;
-public class RandomNumber {
+public class vagrant {
 
 	public static String vagrant_init() {
 		// TODO Auto-generated method stub
